@@ -34,7 +34,7 @@ See the [JavaScript language guide for CircleCI here](https://circleci.com/docs/
 
 ### Webpack Configs
 
-MERN uses Webpack for bundling modules. There are four types of Webpack configs provided `webpack.config.dev.js` (for development), `webpack.config.prod.js` (for production), `webpack.config.server.js` (for bundling server in production) and `webpack.config.babel.js` (for [babel-plugin-webpack-loaders](https://github.com/istarkov/babel-plugin-webpack-loaders) for server rendering of assets included through webpack).
+MERN uses Webpack for bundling modules. There are four (4) types of Webpack configs provided `webpack.config.dev.js` (for development), `webpack.config.prod.js` (for production), `webpack.config.server.js` (for bundling server in production) and `webpack.config.babel.js` (for [babel-plugin-webpack-loaders](https://github.com/istarkov/babel-plugin-webpack-loaders) for server rendering of assets included through webpack).
 
 The Webpack configuration is minimal and beginner-friendly. You can customise and add more features to it for production build.
 
